@@ -1,0 +1,14 @@
+[
+  {
+    "image_path": "sample_images/cat.jpg",
+    "text": "這是一隻可愛的貓咪，正在沙發上休息。"
+  },
+  {
+    "image_path": "sample_images/dog.jpg",
+    "text": "一隻快樂的狗狗在公園裡奔跑。"
+  },
+  {
+    "image_path": "sample_images/bird.jpg",
+    "text": "美麗的小鳥在樹枝上唱歌。"
+  }
+]
