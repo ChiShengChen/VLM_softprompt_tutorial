@@ -1,5 +1,7 @@
 # Soft Prompt VLM Fine-tuning 教學
 
+[English](README_EN.md) | 中文
+
 這個項目展示了如何使用 **Soft Prompt** 技術來 fine-tune 視覺語言模型 (VLM)，這是一種參數高效的 fine-tuning 方法。
 
 ## 🎯 什麼是 Soft Prompt？
